@@ -4080,7 +4080,7 @@ readers do not read off random characters that represent icons */
 .fa-users:before {
   content: "\f0c0"; }
 
-.fa-users-cog:before {
+.-cog:before {
   content: "\f509"; }
 
 .fa-usps:before {
